@@ -18,6 +18,12 @@ li{
     align-items: center;
     justify-content: flex-end;
 }
+button {
+    padding: 10px;
+    background-color: #FFFFFF;
+    border-radius: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
 .lista-menu li>a{
     color:#FFFFFF;
     font-size:  18px;
